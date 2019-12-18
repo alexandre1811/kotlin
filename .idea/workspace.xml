@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5041f0e7-70aa-4011-a56f-ec60854b2c8e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UkTnYWe4mc1SxbuqFTejQG2eaq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/animal.kt" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Kotlin.AnimauxKt">
+    <configuration name="AnimalKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true">
+      <module name="kotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="AnimalKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnimauxKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="kotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="AnimauxKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Plus_ou_moinsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="kotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Plus_ou_moinsKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="kotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="TestKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="plus-ou-moins" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="kotlin" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="plus-ou-moins" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Kotlin.AnimalKt" />
+      <item itemvalue="Kotlin.AnimauxKt" />
+      <item itemvalue="Kotlin.plus-ou-moins" />
+      <item itemvalue="Kotlin.TestKt" />
+      <item itemvalue="Kotlin.Plus_ou_moinsKt" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.AnimauxKt" />
+        <item itemvalue="Kotlin.Plus_ou_moinsKt" />
+        <item itemvalue="Kotlin.plus-ou-moins" />
+        <item itemvalue="Kotlin.TestKt" />
+        <item itemvalue="Kotlin.AnimalKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5041f0e7-70aa-4011-a56f-ec60854b2c8e" name="Default Changelist" comment="" />
+      <created>1575899760946</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575899760946</updated>
+      <workItem from="1575899764119" duration="4393000" />
+      <workItem from="1575978954458" duration="2794000" />
+      <workItem from="1576070046945" duration="1708000" />
+      <workItem from="1576609138748" duration="6722000" />
+      <workItem from="1576671520307" duration="4181000" />
+      <workItem from="1576678171255" duration="7941000" />
+      <workItem from="1576688580797" duration="2486000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576685634802">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="414" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1576685634802" />
+    <state x="735" y="342" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1576678615667">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="735" y="342" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1576678615667" />
+    <state x="689" y="323" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1576685628654">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="689" y="323" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1576685628654" />
+    <state x="740" y="294" key="FileChooserDialogImpl" timestamp="1576680292408">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="740" y="294" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1576680292408" />
+    <state width="1877" height="384" key="GridCell.Tab.0.bottom" timestamp="1576691272372">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="384" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1576691272372" />
+    <state width="1877" height="384" key="GridCell.Tab.0.center" timestamp="1576691272372">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="384" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1576691272372" />
+    <state width="1877" height="384" key="GridCell.Tab.0.left" timestamp="1576691272372">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="384" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1576691272372" />
+    <state width="1877" height="384" key="GridCell.Tab.0.right" timestamp="1576691272372">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="384" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1576691272372" />
+    <state x="461" y="182" key="SettingsEditor" timestamp="1575899787661">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="461" y="182" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1575899787661" />
+    <state x="661" y="363" key="com.intellij.ide.util.TipDialog" timestamp="1575899766143">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="661" y="363" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1575899766143" />
+    <state x="616" y="250" key="run.anything.popup" timestamp="1576687116911">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="616" y="250" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1576687116911" />
+    <state x="623" y="235" key="search.everywhere.popup" timestamp="1575903335865">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="235" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1575903335865" />
+  </component>
+</project>

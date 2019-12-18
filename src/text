@@ -1,0 +1,44 @@
+fun main(args: Array<String>) {
+    print("Enter text: ")
+    val stringInput = readLine()!!
+
+    if (stringInput == "chien?"){
+        println("oui tu es un chien")
+
+        val stringChienInput = readLine()!!
+
+        print("")
+        if (stringChienInput == "son?"){
+            println("tu veux savoir quel son tu fais : wouf")
+        }
+
+    }
+
+    else if (stringInput == "chat ?"){
+        println("oui tu es un chat")
+        print("")
+        val stringChatInput = readLine()!!
+
+        if (stringChatInput == "son?"){
+            println("tu veux savoir quel son tu fais : miaou")
+        }
+
+    }
+
+    else if (stringInput == "perroquet ?"){
+        println("oui tu es un perroquet")
+        print("")
+        val stringPerroquetInput = readLine()!!
+
+        if (stringPerroquetInput == "son?"){
+            println("tu veux savoir quel son tu fais : perroquet")
+        }
+
+    }
+
+else {
+        println("You entered: $stringInput")
+    }
+
+
+}
