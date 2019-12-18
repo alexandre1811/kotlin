@@ -19,6 +19,17 @@ interface animal{
 
 class animalerie{
 
+    var listedanimaux = listOf<animal>()
+
+    fun addAnimal(args1: String) {
+        var newAnimal: String = args1
+        listedanimaux.add(args1)
+    }
+
+    fun liste() {
+        
+    }
+
 }
 
 class chien : animal{
@@ -58,5 +69,11 @@ fun main(args: Array<String>){
 
     }
 
+    else if (stringInputChat == "perroquet?"){
+        var Animal: animal = perroquet()
+        Animal.bruit()
+        Animal.quisuisje()
+
+    }
 
 }
